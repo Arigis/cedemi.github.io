@@ -1,0 +1,200 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+   }
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1 div
+{
+   text-align: center;
+}
+#Button1
+{
+   box-sizing: border-box;
+   line-height: 21px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #000000;
+   border-radius: 4px;
+   background-color: #FF8C00;
+   background-image: none;
+   color: #FFFFFF;
+   cursor: pointer;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 16px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#Button1:focus
+{
+   outline: 0;
+}
+#Button2
+{
+   box-sizing: border-box;
+   line-height: 21px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #000000;
+   border-radius: 4px;
+   background-color: #0000CD;
+   background-image: none;
+   color: #FFFFFF;
+   cursor: pointer;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 16px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#Button2:focus
+{
+   outline: 0;
+}
+#Button3
+{
+   box-sizing: border-box;
+   line-height: 21px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #000000;
+   border-radius: 4px;
+   background-color: #FFD700;
+   background-image: none;
+   color: #FFFFFF;
+   cursor: pointer;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 16px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#Button3:focus
+{
+   outline: 0;
+}
+#Button4
+{
+   box-sizing: border-box;
+   line-height: 21px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #000000;
+   border-radius: 4px;
+   background-color: #00BFFF;
+   background-image: none;
+   color: #FFFFFF;
+   cursor: pointer;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 16px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#Button4:focus
+{
+   outline: 0;
+}
+#Button5
+{
+   box-sizing: border-box;
+   line-height: 21px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #000000;
+   border-radius: 4px;
+   background-color: #696969;
+   background-image: none;
+   color: #FFFFFF;
+   cursor: pointer;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 16px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#Button5:focus
+{
+   outline: 0;
+}
+#Button6
+{
+   box-sizing: border-box;
+   line-height: 21px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #000000;
+   border-radius: 4px;
+   background-color: #A0522D;
+   background-image: none;
+   color: #FFFFFF;
+   cursor: pointer;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 16px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#Button6:focus
+{
+   outline: 0;
+}
+#Button7
+{
+   box-sizing: border-box;
+   line-height: 21px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #000000;
+   border-radius: 4px;
+   background-color: #800000;
+   background-image: none;
+   color: #FFFFFF;
+   cursor: pointer;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 16px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#Button7:focus
+{
+   outline: 0;
+}
