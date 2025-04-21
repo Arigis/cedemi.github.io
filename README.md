@@ -1,1 +1,1 @@
-Web page for fire points
+Web page for recurrence of hazards
