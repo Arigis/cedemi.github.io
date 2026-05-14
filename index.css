@@ -194,6 +194,31 @@ body
    -webkit-appearance: none;
    margin: 0;
 }
+#Button8:focus
+{
+   outline: 0;
+}
+#Button7
+{
+   box-sizing: border-box;
+   line-height: 21px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #000000;
+   border-radius: 4px;
+   background-color: #800000;
+   background-image: none;
+   color: #FFFFFF;
+   cursor: pointer;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 16px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
 #Button7:focus
 {
    outline: 0;
