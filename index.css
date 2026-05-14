@@ -194,11 +194,11 @@ body
    -webkit-appearance: none;
    margin: 0;
 }
-#Button8:focus
+#Button7:focus
 {
    outline: 0;
 }
-#Button7
+#Button8
 {
    box-sizing: border-box;
    line-height: 21px;
@@ -219,7 +219,7 @@ body
    -webkit-appearance: none;
    margin: 0;
 }
-#Button7:focus
+#Button8:focus
 {
    outline: 0;
 }
